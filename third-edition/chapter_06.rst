@@ -854,9 +854,7 @@ Setting Initial Values
 As an improvement to this form, let's add an *initial value* for the
 ``subject`` field: ``"I love your site!"`` (A little power of suggestion can't
 hurt.) To do this, we can use the ``initial`` argument when we create a
-``Form`` instance:
-
-.. parsed-literal::
+``Form`` instance::
 
     def contact(request):
         if request.method == 'POST':
