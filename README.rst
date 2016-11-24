@@ -1,4 +1,12 @@
 ===============
+Update Nov 2016
+===============
+
+This repo is a year out of date, all of the updated code and content now lives at djangobook.com.
+
+Nige'
+
+===============
 About this book
 ===============
 
